@@ -1,0 +1,4 @@
+TF;A superclass's constructor must always invoke the subclass's constructor first;false;12
+FB;_______is the best CISC class;230;50
+FB;In Java "2==1||3!=4" evaluates to ______.;true;4
+MC;@param is a:;3;Instance Variable;Class Variable;Javadoc tag;C;10
